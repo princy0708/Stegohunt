@@ -51,7 +51,7 @@ Made with ❤️ by **Princy Chauhan**
 ## 🧪 Run Locally
 
 ```bash
-git clone https://github.com/yourusername/StegoHunt.git
+git clone https://github.com/princy0708/StegoHunt.git
 cd StegoHunt
 pip install -r requirements.txt
 python app.py
