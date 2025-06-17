@@ -42,3 +42,18 @@ cd StegoHunt
 pip install -r requirements.txt
 python app.py
 # Stegohunt
+## 🤩 Enhancements Coming
+
+- 🔐 Password-protected image report sharing
+- 🧠 AI-powered steganalysis (basic classifier)
+- 📦 Docker support
+
+---
+
+## 🙋‍♀️ About Me
+
+Made with ❤️ by **Princy Chauhan**  
+Cybersecurity Student @ Dev Bhoomi Uttarakhand University  
+🔗 [LinkedIn](https://linkedin.com/in/princy-chauhan)  
+📧 anisha04082006@gmail.com
+
