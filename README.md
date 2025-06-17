@@ -33,15 +33,6 @@ StegoHunt is a Flask-based web tool that detects **LSB steganography** in images
 - HTML5 + CSS3 (Jinja Templates)
 
 ---
-
-## 🧪 Run Locally
-
-```bash
-git clone https://github.com/yourusername/StegoHunt.git
-cd StegoHunt
-pip install -r requirements.txt
-python app.py
-# Stegohunt
 ## 🤩 Enhancements Coming
 
 - 🔐 Password-protected image report sharing
@@ -52,8 +43,17 @@ python app.py
 
 ## 🙋‍♀️ About Me
 
-Made with ❤️ by **Princy Chauhan**  
-Cybersecurity Student @ Dev Bhoomi Uttarakhand University  
+Made with ❤️ by **Princy Chauhan**    
 🔗 [LinkedIn](https://linkedin.com/in/princy-chauhan)  
-📧 anisha04082006@gmail.com
+
+
+
+## 🧪 Run Locally
+
+```bash
+git clone https://github.com/yourusername/StegoHunt.git
+cd StegoHunt
+pip install -r requirements.txt
+python app.py
+# Stegohunt
 
