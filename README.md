@@ -44,7 +44,7 @@ StegoHunt is a Flask-based web tool that detects **LSB steganography** in images
 ## 🙋‍♀️ About Me
 
 Made with ❤️ by **Princy Chauhan**    
-🔗 [LinkedIn](https://linkedin.com/in/princy-chauhan)  
+🔗 [LinkedIn]https://www.linkedin.com/in/princy-chauhan-a526b5343/
 
 
 
