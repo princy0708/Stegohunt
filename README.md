@@ -2,7 +2,7 @@
 
 StegoHunt is a Flask-based web tool that detects **LSB steganography** in images using entropy analysis. It helps digital forensics professionals and CTF players identify hidden data inside PNG, JPG, JPEG, and BMP images.
 
-![StegoHunt Banner](https://your-image-link-if-any)
+
 
 ---
 
@@ -19,7 +19,7 @@ StegoHunt is a Flask-based web tool that detects **LSB steganography** in images
 
 | Upload Image | LSB Visualization |
 |--------------|-------------------|
-| ![upload](screenshots/upload.png) | ![result](screenshots/result.png) |
+
 
 ---
 
